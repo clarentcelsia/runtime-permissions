@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permission</string>
+    <string name="camera_permission">Camera Permission</string>
+    <string name="location_access">Location Access</string>
+</resources>
